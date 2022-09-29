@@ -1,6 +1,6 @@
 Description
 ===========
-calculate and display input given range of prime numbers by creating volatile database of previously calculated prime numbers in array.
+calculate and display input given range of prime numbers by creating volatile database of previously calculated prime numbers in array or by using Singly Linked List.
 
 My Thank and Tribute
 =====================
